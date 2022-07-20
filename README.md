@@ -33,13 +33,11 @@ Figuring out ResNet is sucessful using layers block.
 For detail, Learning rate scheduling, momentum, appropriate batch size is used.  
 And I've got familiar with tensorflow dataset. How to deal with, get into infomation, etc.  
 
-Also, there is something to be improved.  
+Also, there is something to be improved not yet.  
 I've kenw regularization, weight decay is tough for me at now.  
 Exploration for batch size will be needed.
 
 ### Exploration
 - Batchsize and Learning rate
-https://arxiv.org/pdf/1711.00489.pdf#:~:text=(2017)%20trained%20a%20ResNet%2D,a%20momentum%20coefficient%20of%200.9
+https://arxiv.org/pdf/1711.00489.pdf#:~:text=(2017)%20trained%20a%20ResNet%2D,a%20momentum%20coefficient%20of%200.9  
 https://inhovation97.tistory.com/32
-
-
