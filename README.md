@@ -41,3 +41,7 @@ Exploration for how batch size effects model fitting will be needed.
 - Batchsize and Learning rate  
 https://arxiv.org/pdf/1711.00489.pdf#:~:text=(2017)%20trained%20a%20ResNet%2D,a%20momentum%20coefficient%20of%200.9  
 https://inhovation97.tistory.com/32
+
+- Tensorflow dataset My summary
+https://velog.io/@jujemu/텐서플로우-데이터셋-도대체-뭐야  
+
