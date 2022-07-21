@@ -2,7 +2,7 @@ name: First Action
 
 on:
   issues:
-    types: [opend]    
+    types: [opened]    
   issue_comment:
     type: [created]    
 
